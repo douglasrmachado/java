@@ -5,5 +5,4 @@ public enum EstiloEnum {
     sertanejo,
     blues,
     jazz,
-    teste
  }
